@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @susamoymandi
 - 👀 I’m interested in Programing
 - 🌱 I’m currently learning C Language
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: I've gave a linktree link in my github profile where you can reach me.
 - 😄 Pronouns: He/Him.
 - ⚡ Fun fact: I like to Play Video Games.
