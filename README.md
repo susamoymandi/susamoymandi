@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Susamoy Mandi.
 - 👀 I’m interested in Programing.
-- 🌱 I’m currently learning C Language.
+- 🌱 I’m currently learning C, Java, Python and Kotlin Language.
 - 📫 How to reach me: I've gave a linktree link in my github profile where you can reach me.
 - 😄 Pronouns: He/Him.
 - ⚡ Fun fact: I like to Play Video Games.
